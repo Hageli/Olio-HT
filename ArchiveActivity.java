@@ -1,4 +1,4 @@
-package com.example.olio_ht.activities;
+package com.example.olio_ht;
 
 import android.content.Context;
 import android.content.Intent;
@@ -16,9 +16,6 @@ import android.widget.Toast;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 
-
-import com.example.olio_ht.otherClasses.AppCompat;
-import com.example.olio_ht.R;
 
 import java.io.BufferedReader;
 import java.io.IOException;

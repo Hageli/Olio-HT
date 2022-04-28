@@ -1,4 +1,4 @@
-package com.example.olio_ht.activities;
+package com.example.olio_ht;
 
 import android.content.Context;
 import android.content.Intent;
@@ -10,9 +10,6 @@ import android.widget.ProgressBar;
 import android.widget.SeekBar;
 import android.widget.TextView;
 import android.widget.Toast;
-
-import com.example.olio_ht.otherClasses.AppCompat;
-import com.example.olio_ht.R;
 
 import java.io.IOException;
 import java.io.OutputStreamWriter;

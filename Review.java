@@ -1,4 +1,4 @@
-package com.example.olio_ht.otherClasses;
+package com.example.olio_ht;
 
 public class Review {
     private String moviename;

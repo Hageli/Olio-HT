@@ -1,4 +1,4 @@
-package com.example.olio_ht.activities;
+package com.example.olio_ht;
 
 import android.content.Context;
 import android.content.Intent;
@@ -6,11 +6,6 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import android.widget.Toast;
-
-import com.example.olio_ht.R;
-import com.example.olio_ht.activities.MainActivity;
-import com.example.olio_ht.otherClasses.AppCompat;
-import com.example.olio_ht.otherClasses.LanguageHelper;
 
 import java.io.IOException;
 import java.io.OutputStreamWriter;

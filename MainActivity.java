@@ -1,12 +1,9 @@
-package com.example.olio_ht.activities;
+package com.example.olio_ht;
 
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
-
-import com.example.olio_ht.otherClasses.AppCompat;
-import com.example.olio_ht.R;
 
 import java.io.File;
 import java.io.FileWriter;

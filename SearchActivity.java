@@ -1,4 +1,4 @@
-package com.example.olio_ht.activities;
+package com.example.olio_ht;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -9,12 +9,6 @@ import android.widget.ArrayAdapter;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Spinner;
-
-import com.example.olio_ht.R;
-import com.example.olio_ht.otherClasses.Theatre;
-import com.example.olio_ht.otherClasses.AppCompat;
-import com.example.olio_ht.otherClasses.MovieDataManager;
-import com.example.olio_ht.otherClasses.MovieObject;
 
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;

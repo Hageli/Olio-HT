@@ -1,4 +1,4 @@
-package com.example.olio_ht.activities;
+package com.example.olio_ht;
 
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
@@ -15,11 +15,6 @@ import android.widget.Button;
 import android.widget.ListView;
 import android.widget.TextView;
 import android.widget.Toast;
-
-import com.example.olio_ht.R;
-import com.example.olio_ht.otherClasses.AppCompat;
-import com.example.olio_ht.otherClasses.LanguageHelper;
-import com.example.olio_ht.otherClasses.MovieObject;
 
 import java.io.BufferedReader;
 import java.io.IOException;
